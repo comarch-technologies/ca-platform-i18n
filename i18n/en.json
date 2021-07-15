@@ -720,8 +720,5 @@
   "ACTIONS_DETAILS": "Actions details",
   "HEADERS": "Headers",
   "EMAIL": "Email",
-  "URL": "URL",
-  "ACTIONS_LIST_IS_EMPTY": "Actions list is empty",
-  "INACTIVE": "Inactive",
-  "ACTIVE": "Active"
+  "ACTIONS_LIST_IS_EMPTY": "Actions list is empty"
 }
