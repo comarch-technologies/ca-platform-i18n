@@ -708,5 +708,20 @@
   "LAST": "最後",
   "FIRST": "最初",
   "LOADING_ALERTS": "ロード中",
-  "UNABLE_TO_FOUND_ALERTS": "アラートはありません。"
+  "UNABLE_TO_FOUND_ALERTS": "アラートはありません。",
+
+  "TRANSFORMATIONS_LIST_IS_EMPTY." : "変換フィールドを入力してください。",
+  "TRANSFORMATIONS_DETAILS": "変換詳細",
+  "TRANSFORMATION_DESCRIPTION": "変換説明",
+  "INPUT": "入力",
+  "FUNCTION": "関数",
+  "OUTPUT": "出力",
+  "RULE_DESCRIPTION": "ルール説明",
+  "ACTIONS_DETAILS": "アクション説明",
+  "HEADERS": "ヘッダー",
+  "EMAIL": "メール",
+  "URL": "URL",
+  "ACTIONS_LIST_IS_EMPTY": "アクションが指定されていません。",
+  "INACTIVE": "無効",
+  "ACTIVE": "有効"
 }
