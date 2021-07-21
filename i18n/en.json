@@ -229,7 +229,7 @@
   "TAG_NAME_RESTRICTIONS": "Tag name should consist of: letters, digits, `-` and `_`, but it should start and end only with the letter or digit.",
   "CREATE_CHANNEL": "Create channel",
   "UPDATE_CHANNEL": "Update channel",
-  "DELETE_CHANNELS_CONFIRMATION": "Are you sure want to <span class=\"text-danger\">remove the following channels</span> ({{selectedChannelsLength}}):",
+  "DELETE_CHANNELS_CONFIRMATION": "Are you sure you want to remove the selected channels",
   "SUCCESSFULLY_CREATED_CHANNEL_FOR_DEVICES": "Successfully created channel '{{channelName}}' for {{devicesCount}} devices",
   "SUCCESSFULLY_CREATED_CHANNEL_FOR_DEVICE": "Successfully created channel '{{channelName}}' for device '{{deviceName}}'",
   "SUCCESSFULLY_ASSIGNED_CHANNEL_TO_DEVICES": "Successfully assigned channel '{{channelName}}' to {{devicesCount}} devices",
@@ -721,6 +721,5 @@
   "HEADERS": "Headers",
   "EMAIL": "Email",  
   "ACTIONS_LIST_IS_EMPTY.": "Actions list is empty",
-"DELETE_CHANNELS_CONFIRMATION": "Are you sure you want to remove the selected channels",
-"REMOVING_CHANNELS": "Removing channels",
+  "REMOVING_CHANNELS": "Removing channels"
 }
