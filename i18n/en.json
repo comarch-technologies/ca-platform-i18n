@@ -719,6 +719,8 @@
   "RULE_DESCRIPTION": "Rule description",
   "ACTIONS_DETAILS": "Actions details",
   "HEADERS": "Headers",
-  "EMAIL": "Email",
-  "ACTIONS_LIST_IS_EMPTY": "Actions list is empty"
+  "EMAIL": "Email",  
+  "ACTIONS_LIST_IS_EMPTY.": "Actions list is empty",
+"DELETE_CHANNELS_CONFIRMATION": "Are you sure you want to remove the selected channels",
+"REMOVING_CHANNELS": "Removing channels",
 }
