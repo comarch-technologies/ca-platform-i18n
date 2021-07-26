@@ -229,7 +229,7 @@
   "TAG_NAME_RESTRICTIONS": "タグ名には半角英数字、ハイフン、アンダースコアのみが使用可能です。また、開始文字には半角英数字のみが使用可能です。",
   "CREATE_CHANNEL" : "チャネル作成",
   "UPDATE_CHANNEL" : "チャネル編集",
-  "DELETE_CHANNELS_CONFIRMATION": "選択したチャネル({{selectedChannelsLength}}個)を<span class=\"text-danger\">削除しますか？</span>",
+  "DELETE_CHANNELS_CONFIRMATION": "選択したチャネルを削除しますか？",
   "SUCCESSFULLY_CREATED_CHANNEL_FOR_DEVICES": "チャネル({{channelName}})を作成しました。対応デバイス：{{devicesCount}}個",
   "SUCCESSFULLY_CREATED_CHANNEL_FOR_DEVICE": "チャネル({{channelName}})を作成しました。対応デバイス名：{{deviceName}}",
   "SUCCESSFULLY_ASSIGNED_CHANNEL_TO_DEVICES": "チャネル({{channelName}})を{{devicesCount}}個のデバイスに関連付けました。",
@@ -720,8 +720,6 @@
   "ACTIONS_DETAILS": "アクション説明",
   "HEADERS": "ヘッダー",
   "EMAIL": "メール",
-  "URL": "URL",
   "ACTIONS_LIST_IS_EMPTY": "アクションが指定されていません。",
-  "INACTIVE": "無効",
-  "ACTIVE": "有効"
+  "REMOVING_CHANNELS": "チャネル削除中"
 }
