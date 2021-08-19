@@ -750,5 +750,8 @@
   "TRANSFORMATIONS_SUMMARY": "Transformations summary", 
   "RULESON_ADDED_BODY": "Rule {{ruleId}} has been added",
   "RULE_ERROR_TITLE": "Rule error",
-  "RULE_ERROR_BODY": "Rule couldn't be added due to an error. Please try again."
+  "RULE_ERROR_BODY": "Rule couldn't be added due to an error. Please try again.",
+  "SHOW_DEVICE_DETAILS": "Show device details",
+  "REFRESH_DEVICE_HISTORY": "Refreshed the device history",
+  "NO_AUTO_REFRESH": "No auto refresh"
 }
