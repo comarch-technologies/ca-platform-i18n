@@ -768,7 +768,7 @@
   "FIND": "Find",
   "FIND_ONE": "Find One",
   "INPUTS_INFO": "Input of this particular transformation. \"event\" for the first one, and last output for every next one.",
-  "FUNCTOR_INFO": "The function to evaluate, e.g. \\"{{this.iprop}}\\" == \\"temperature\\" && \\"{{this.iprop}}\\" > 10",
+  "FUNCTOR_INFO": "The function to evaluate, e.g. \\\"{{this.iprop}}\\\" == \\\"temperature\\\" && \\\"{{this.iprop}}\\\" > 10",
   "OUTPUT_INFO": "Output of this transformation, which can be used as the input for the next one.",
   "URI_INFO_MQTT": "[tcp://host:port] MQTT URI.",
   "URI_INFO_HTTP": "Remember to specify the protocol: http:// or https://",
