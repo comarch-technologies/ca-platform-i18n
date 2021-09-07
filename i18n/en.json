@@ -800,5 +800,5 @@
   "AUTORESOLVE_KEY_PATTERN": "Autoresolve can be injected or must be true or false", 
   "KEY": "Key",
   "ALERT_KEY": "Alert key",
-  "DELAY_KEY": "Delay key",
+  "DELAY_KEY": "Delay key"
 }
