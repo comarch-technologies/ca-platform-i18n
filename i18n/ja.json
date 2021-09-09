@@ -750,5 +750,8 @@
   "TRANSFORMATIONS_SUMMARY": "変換概要",
   "RULESON_ADDED_BODY": "ルール{{ruleId}}を追加しました。",
   "RULE_ERROR_TITLE": "ルールエラー",
-  "RULE_ERROR_BODY": "ルールを追加できませんでした。再度お試しください。"
+  "RULE_ERROR_BODY": "ルールを追加できませんでした。再度お試しください。",
+  "SHOW_DEVICE_DETAILS": "デバイス詳細表示",
+  "REFRESH_DEVICE_HISTORY": "データ履歴を更新しました。",
+  "NO_AUTO_REFRESH": "自動更新なし"
 }
