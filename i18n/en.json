@@ -782,7 +782,7 @@
   "DURATION_INFO": "Number of event repetitions before action.",
   "INPUTS_RESTRICTIONS": "Inputs field is required for operation type: FIND, FIND_ONE, MAP, SUM, MEAN",
   "ACTION_DELETED_TITLE": "Action deleted",
-  "ACTION_DELETED_BODY": "Action {{actionerId}} has been added",
+  "ACTION_DELETED_BODY": "Action {{actionerId}} has been deleted",
   "REMOVE_RULES_CONFIRMATION": "Are you sure you want to remove the selected rules?",
   "RULES_DELETED_TITLE": "Rules deleted", 
   "RULES_DELETED_BODY": "All {{rulesCount}} rules have been deleted",
