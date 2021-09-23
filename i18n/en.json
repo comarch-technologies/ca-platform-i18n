@@ -766,8 +766,6 @@
   "MEAN": "Mean",
   "FIND": "Find",
   "FIND_ONE": "Find One",
-  "INPUTS_INFO": "Input of this particular transformation. \"event\" for the first one, and last output for every next one.",
-  "FUNCTOR_INFO": "The function to evaluate, e.g. \\\"{{this.iprop}}\\\" == \\\"temperature\\\" && \\\"{{this.iprop}}\\\" > 10",
   "OUTPUT_INFO": "Output of this transformation, which can be used as the input for the next one.",
   "URI_INFO_MQTT": "[tcp://host:port] MQTT URI.",
   "URI_INFO_HTTP": "Remember to specify the protocol: http:// or https://",
@@ -804,5 +802,13 @@
   "RULESON_NAME_ALREADY_EXISTS": "The rule with this name already exists",
   "RULESON": "Ruleson",
   "RULES_DEPRECATED": "Rules (deprecated)",
-  "ALERT_ACTION_INFO": "Please note that alerts won't be visible in the web application until next release due to migrating the alerts between rule engine versions."
+  "TIME": "Time",
+  "SOURCE": "Source",
+  "OCCURRENCES": "Occurrences",
+  "DEVICE/CHANNEL": "Device/Channel",
+  "SEARCH_ALERTS_PLACEHOLDER": "Search message, device id or channel id...",
+  "ALERTS_DEPRECATED": "Alerts (deprecated)",
+  "INPUTS_INFO": "Input of this particular transformation. \"event\" (without quotations) for the first one, and last output for every next one.",
+  "FUNCTOR_INFO": "e.g. \"this.iprop\" == \"temperature\"",
+  "ALERT_KEY_INFO": "A unique key for identifying the alert."
 }
