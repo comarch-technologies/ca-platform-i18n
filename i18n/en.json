@@ -402,7 +402,7 @@
   "ACTIVATE": "Activate",
   "ALL_CONFIGURED_DATA": "All configured data will be lost. Do you really want to leave the wizard?",
   "DEACTIVATE": "Deactivate",
-  "NEW_RULES_INFO": "From the date of September 30th, 2021 this version of Rule Engine will become unavailable. The new Rule Engine is accessible in Rules tab. The user manual can be found <a class=\"text-href\" href='https://docs.comarch-iot.com/#_rule_engine'>here</a>.",
+  "NEW_RULES_INFO": "This version of rule engine is deprecated. The new Rule Engine is accessible in Rules tab. The user manual can be found <a class=\"text-href\" href='https://docs.comarch-iot.com/#_rule_engine'>here</a>.",
   "SAVE_RULE": "Save rule",
   "RULE_DETAILS": "Rule details ({{ruleDTO}})",
   "RULE_SAVED_TITLE": "Rule saved",
@@ -810,5 +810,7 @@
   "ALERTS_DEPRECATED": "Alerts (deprecated)",
   "INPUTS_INFO": "Input of this particular transformation. \"event\" (without quotations) for the first one, and last output for every next one.",
   "FUNCTOR_INFO": "e.g. \"this.iprop\" == \"temperature\"",
-  "ALERT_KEY_INFO": "A unique key for identifying the alert."
+  "ALERT_KEY_INFO": "A unique key for identifying the alert.",
+  "DELETE_DEVICES_CONFIRMATION": "Are you sure you want to remove the selected devices?",
+  "REMOVING_DEVICES": "Removing devices"
 }
