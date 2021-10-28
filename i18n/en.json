@@ -812,5 +812,12 @@
   "FUNCTOR_INFO": "e.g. \"this.iprop\" == \"temperature\"",
   "ALERT_KEY_INFO": "A unique key for identifying the alert.",
   "DELETE_DEVICES_CONFIRMATION": "Are you sure you want to remove the selected devices?",
-  "REMOVING_DEVICES": "Removing devices"
+  "REMOVING_DEVICES": "Removing devices",
+  "TWIN_DETAILS": "Twin details",
+  "REPORTED": "Reported",
+  "DESIRED": "Desired",
+  "EDIT_PROPERTIES": "Edit properties",
+  "PROPERTY_DESCRIPTION": "Property description",
+  "PROPERTY_VALUES": "Property values",
+  "PROPERTIES_DETAILS": "Properties details"
 }
