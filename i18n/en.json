@@ -400,7 +400,7 @@
   "PROJECT_UPDATED_BODY": "Project has been updated successfully",
 
   "ACTIVATE": "Activate",
-  "ALL_CONFIGURED_DATA": "Do you really want to leave the wizard?",
+  "ALL_CONFIGURED_DATA": "Are you sure you want to leave the wizard?",
   "DEACTIVATE": "Deactivate",
   "NEW_RULES_INFO": "This version of rule engine is deprecated. The new Rule Engine is accessible in Rules tab. The user manual can be found <a class=\"text-href\" href='https://docs.comarch-iot.com/#_rule_engine'>here</a>.",
   "SAVE_RULE": "Save rule",
