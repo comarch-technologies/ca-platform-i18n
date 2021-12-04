@@ -400,7 +400,7 @@
   "PROJECT_UPDATED_BODY": "プロジェクトを更新しました。",
 
   "ACTIVATE" : "有効",
-  "ALL_CONFIGURED_DATA": "設定内容を破棄して終了しますか？",
+  "ALL_CONFIGURED_DATA": "設定内容を破棄してウィザードを終了しますか？",
   "DEACTIVATE" : "無効",
   "NEW_RULES_INFO": "次回の更新にて、本機能が刷新される予定です。新しいルール・エンジン機能は<a class=\"text-href\" href='./api-docs#/Rules%20(New)'>こちら</a>。",
   "SAVE_RULE" : "保存",
@@ -440,7 +440,7 @@
   "EDIT_RULE" : "編集",
   "LEAVE_UPDATING_RULE": "編集キャンセル",
   "LEAVE_CREATING_RULE": "作成キャンセル",
-  "LEAVE_THE_WIZARD": "ウィザードキャンセル",
+  "LEAVE_THE_WIZARD": "確認",
   "CONFIRM_LEAVE_UPDATING": "変更内容を破棄して終了しますか？",
   "CONFIRM_LEAVE_CREATING": "設定内容を破棄して終了しますか？",
   "CHANGES_NOT_BE_SAVED": "変更内容は保存されません。",
@@ -812,5 +812,12 @@
   "FUNCTOR_INFO": "例) \"this.iprop\" == \"temperature\"",
   "ALERT_KEY_INFO": "アラートを特定するユニーク・キーです。",
   "DELETE_DEVICES_CONFIRMATION": "選択したデバイスを削除しますか？",
-  "REMOVING_DEVICES": "デバイスを削除しています。"
+  "REMOVING_DEVICES": "デバイスを削除しています。",
+  "TWIN_DETAILS": "Twin詳細",
+  "REPORTED": "Reported",
+  "DESIRED": "Desired",
+  "EDIT_PROPERTIES": "プロパティ編集",
+  "PROPERTY_DESCRIPTION": "説明",
+  "PROPERTY_VALUES": "値",
+  "PROPERTIES_DETAILS": "プロパティ詳細"
 }
