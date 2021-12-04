@@ -133,7 +133,7 @@
   "ADD_DEVICES": "Add devices",
   "BULK_ADD_DEVICES": "Bulk add devices",
   "ADD_DEVICES_TEXTAREA": "Define devices",
-  "DEFINE_FEW_DEVICES": "Define few devices",
+  "DEFINE_FEW_DEVICES": "Define many devices",
   "DEVICE_ADDED_TITLE": "Device has been added",
   "DEVICE_ADDED_BODY": "The device has been added to the project",
   "DEVICES_ADDED_TITLE": "Devices have been added",
@@ -707,7 +707,7 @@
   "LAST": "Last",
   "FIRST": "First",
   "LOADING_ALERTS": "Loading alerts",
-  "UNABLE_TO_FOUND_ALERTS": "Unable to found alerts",
+  "UNABLE_TO_FOUND_ALERTS": "Unable to find alerts",
   
   "TRANSFORMATIONS_LIST_IS_EMPTY." : "Transformations list is empty.",
   "TRANSFORMATIONS_DETAILS": "Transformations details",
@@ -819,5 +819,15 @@
   "EDIT_PROPERTIES": "Edit properties",
   "PROPERTY_DESCRIPTION": "Property description",
   "PROPERTY_VALUES": "Property values",
-  "PROPERTIES_DETAILS": "Properties details"
+  "PROPERTIES_DETAILS": "Properties details",
+  "GENERATE_KEY": "Generate key",
+  "APPLICATIONS": "Applications",
+  "KEY_TO_APPLICATION": "Key to application was generated successfully!",
+  "WRITE_DOWN_THE_KEY": "Write down the key in a safe place, because after closing the generator, the key will not be displayed again.",
+  "GENERATE_API_KEY": "Generate API Key",
+  "CREATE_APPLICATION": "Create application",
+  "APP_ADDED_TITLE": "Awesome!",
+  "APP_ADDED_BODY": "{{appName}} has been created successfully.",
+  "APP_ERROR_TITLE": "Oh snap!",
+  "APP_ERROR_BODY": "We could not create application. Please, try again later."
 }
