@@ -830,11 +830,15 @@
   "APP_ADDED_BODY": "{{appName}} has been created successfully.",
   "APP_ERROR_TITLE": "Oh snap!",
   "APP_ERROR_BODY": "We could not create application. Please, try again later.",
-  "REMOVING_CHANNELS": "Removing channels",
-  "REMOVING_APPLICATION_BODY": "Are you sure you want to remove the application {{appName}}",
   "REMOVING_APPLICATION": "Removing application",
-  "REMOVING_API_KEY_BODY": "Are you sure you want to remove the API Key {{keyId}}",
   "REMOVING_API_KEY": "Removing API Key",
   "APPLICATION_NAME_ERROR": "The application name must start and end with alphanumeric characters and cannot contain any special characters",
-  "APPLICATION_NAME": "Application name"
+  "APPLICATION_NAME": "Application name",
+  "CLICK_HERE_TOOLTIP": "Click here to copy!",
+  "COPIED_T0_CLIPBOARD": "Copied to clipboard",
+  "SUCCESS_TITLE": "Success!",
+  "DELETE_API_KEY": "Delete API Key",
+  "DELETE_APPLICATION": "Delete application",
+  "REMOVING_API_KEY_BODY": "Are you sure you want to remove the API Key ",
+  "REMOVING_APP_BODY" : "Are you sure you want to remove the app "
 }
