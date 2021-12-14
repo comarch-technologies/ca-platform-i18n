@@ -830,11 +830,15 @@
   "APP_ADDED_BODY": "{{appName}}を作成しました。",
   "APP_ERROR_TITLE": "エラー",
   "APP_ERROR_BODY": "アプリケーションを作成できませんでした。",
-  "REMOVING_CHANNELS": "チャネル削除中",
-  "REMOVING_APPLICATION_BODY": "アプリケーション({{appName}})を削除しますか？",
   "REMOVING_APPLICATION": "アプリケーション削除中",
-  "REMOVING_API_KEY_BODY": "APIキー({{keyId}})を削除しますか？",
-  "REMOVING_API_KEY": "API削除中",
+  "REMOVING_API_KEY": "APIキー削除中",
   "APPLICATION_NAME_ERROR": "アプリケーション名には半角英数字のみが使用可能です。",
-  "APPLICATION_NAME": "名前"
+  "APPLICATION_NAME": "名前",
+  "CLICK_HERE_TOOLTIP": "コピー",
+  "COPIED_T0_CLIPBOARD": "クリップボードにコピーしました。",
+  "SUCCESS_TITLE": "成功",
+  "DELETE_API_KEY": "APIキー削除",
+  "DELETE_APPLICATION": "アプリケーション削除",
+  "REMOVING_API_KEY_BODY": "APIキーを削除しますか？",
+  "REMOVING_APP_BODY" : "アプリケーションを削除しますか？"
 }
