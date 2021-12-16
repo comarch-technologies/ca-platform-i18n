@@ -366,7 +366,6 @@
   "BUILD": "build",
   "VERSION": "version",
   "MEMBER": "member",
-  "OWNER": "owner",
   "EVERY": "Every",
   "SEARCH": "Search...",
   "SEARCH_OR_CREATE": "Search or create",
@@ -840,5 +839,17 @@
   "DELETE_API_KEY": "Delete API Key",
   "DELETE_APPLICATION": "Delete application",
   "REMOVING_API_KEY_BODY": "Are you sure you want to remove the API Key ",
-  "REMOVING_APP_BODY" : "Are you sure you want to remove the app "
+  "REMOVING_APP_BODY" : "Are you sure you want to remove the app ",
+  "ACTION_HEADERS_HTTP_PATTERN": "It is required to enter both name and value of header property",
+  "GUEST": "Guest",
+  "TECHNICIAN": "Technician",
+  "OWNER": "Owner",
+  "API_KEY_DELETE_TITLE": "API Key deleted",
+  "API_KEY_DELETE_BODY": "API Key has been deleted",
+  "API_KEY_DELETE_ERROR_TITLE": "Oh snap!",
+  "API_KEY_DELETE_ERROR_BODY": "We could not delete API Key. Please, try again later.",
+  "APP_DELETE_TITLE": "Application deleted",
+  "APP_DELETE_BODY": "Application has been deleted",
+  "APP_DELETE_ERROR_TITLE": "Oh snap!",
+  "APP_DELETE_ERROR_BODY": "We could not delete application. Please, try again later."
 }
