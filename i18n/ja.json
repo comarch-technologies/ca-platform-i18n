@@ -366,7 +366,6 @@
   "BUILD" : "ビルド",
   "VERSION" : "バージョン",
   "MEMBER" : "メンバー",
-  "OWNER": "オーナー",
   "EVERY" : "毎",
   "SEARCH" : "検索中",
   "SEARCH_OR_CREATE": "検索、または作成",
@@ -840,5 +839,17 @@
   "DELETE_API_KEY": "APIキー削除",
   "DELETE_APPLICATION": "アプリケーション削除",
   "REMOVING_API_KEY_BODY": "APIキーを削除しますか？",
-  "REMOVING_APP_BODY" : "アプリケーションを削除しますか？"
+  "REMOVING_APP_BODY" : "アプリケーションを削除しますか？",
+  "ACTION_HEADERS_HTTP_PATTERN": "ヘッダー名、および値を入力してください。",
+  "GUEST": "ゲスト",
+  "TECHNICIAN": "テクニシャン",
+  "OWNER": "オーナー",
+  "API_KEY_DELETE_TITLE": "APIキー削除",
+  "API_KEY_DELETE_BODY": "APIキーを削除しました。",
+  "API_KEY_DELETE_ERROR_TITLE": "エラー",
+  "API_KEY_DELETE_ERROR_BODY": "APIキーを削除できませんでした。",
+  "APP_DELETE_TITLE": "アプリケーション削除",
+  "APP_DELETE_BODY": "アプリケーションを削除しました。",
+  "APP_DELETE_ERROR_TITLE": "エラー",
+  "APP_DELETE_ERROR_BODY": "アプリケーションを削除できませんでした。"
 }
