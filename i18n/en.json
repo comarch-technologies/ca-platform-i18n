@@ -853,7 +853,7 @@
   "APP_DELETE_ERROR_TITLE": "Oh snap!",
   "APP_DELETE_ERROR_BODY": "We could not delete application. Please, try again later.",
   "CREATE_COMMAND" : "+ Create command",
-  "TEMPLATE_DETAILS" : "Template details ({{template.name}})",
+  "TEMPLATE_DETAILS" : "Template details ({{templateDTO}})",
   "PROPERTIES_LIST_IS_EMPTY." : "Properties list is empty.",
   "CONST_VALUE" : "Const",
   "MIN_LENGTH_VALUE" : "Minimum length",
