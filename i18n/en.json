@@ -872,5 +872,11 @@
   "TEMPLATE_DELETE_ERROR_TITLE": "Oh snap!",
   "TEMPLATE_DELETE_ERROR_BODY": "We could not delete template. Please, try again later.",
   "TEMPLATE_NAME": "Template name",
-  "NAME_PARAM": "Parameter name"
+  "NAME_PARAM": "Parameter name",
+  "ADD_PARAMETER": "Add parameter",
+  "ADD_TEMPLATE": "Add template",
+  "EDIT_PARAMETER": "Edit parameter",
+  "COMMANDS": "Commands",
+  "TEMPLATES": "Templates",
+  "COMMANDS_LIST": "Commands List"
 }
