@@ -878,5 +878,11 @@
   "EDIT_PARAMETER": "Edit parameter",
   "COMMANDS": "Commands",
   "TEMPLATES": "Templates",
-  "COMMANDS_LIST": "Commands List"
+  "COMMANDS_LIST": "Commands List",
+  "TEMPLATE_NAME_RESTRICTIONS": "Template name should contain only letters, digits, `_`, `-` and should start and end with letter or digit",
+  "TEMPLATE_NAME_TAKEN": "The name is already used by another template",
+  "EDIT_TEMPLATE": "Edit template",
+  "TEMPLATE_UPDATE_ERROR_TITLE": "Template update error",
+  "TEMPLATE_UPDATE_ERROR_BODY": "Could not update action, please try again",
+  "N0_TEMPLATES": "Templates list is empty."
 }
