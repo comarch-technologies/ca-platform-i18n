@@ -373,8 +373,8 @@
   "CLEAR_SELECTED_ITEMS" : "選択を解除",
   "GEOLOCATION": "地理情報",
 
-  "PROJECT_NAME_RESTRICTIONS" : "プロジェクト名には半角英数字、およびハイフンのみが使用可能です。また、開始文字には半角英数字のみが指定可能です。",
-  "PROJECT_ID_RESTRICTIONS" : "プロジェクトIDには半角英数字、およびハイフンのみが使用可能です。",
+  "PROJECT_NAME_RESTRICTIONS" : "プロジェクト名には全角文字、半角英数字、アンダーバーおよびハイフンのみが使用可能です。また、開始文字と終了文字には全角文字、半角英数字のみが指定可能です。",
+  "PROJECT_ID_RESTRICTIONS" : "プロジェクトIDには半角英数字、アンダーバーおよびハイフンのみが使用可能です。また、ハイフンから開始することはできません。",
   "CREATED_NEW_PROJECT_SUCCESSFULLY" : "プロジェクトを作成しました。",
   "CREATED_NEW_PROJECT_FAIL" : "プロジェクトを作成できませんでした。",
   "PROJECT_ID" : "プロジェクトID",
